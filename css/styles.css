@@ -116,9 +116,9 @@ p {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
-  font-family: Georgia;
-  color: #4C0027;
-  font-size: 20px;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #000;
+  font-size: 1.1rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin: 50px auto 100px;
